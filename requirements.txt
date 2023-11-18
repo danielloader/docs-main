@@ -1,0 +1,2 @@
+mkdocs==1.5.3
+mkdocs-material @ git+https://github.com/squidfunk/mkdocs-material-insiders.git@91a853fb88e2587f8e97a7591141e453c8c27581

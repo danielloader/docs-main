@@ -1,0 +1,9 @@
+site_name: Test
+theme:
+  name: material
+plugins:
+  - search
+  - projects
+nav:
+  - Home: index.md
+  - Product A: project://a
